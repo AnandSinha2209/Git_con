@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/AnandSinha2209/Git_con#readme",
   "dependencies": {
-    "jsonfile": "^6.0.1"
+    "jsonfile": "^6.0.1",
+    "moment": "^2.27.0",
+    "simple-git": "^2.12.0"
   }
 }
