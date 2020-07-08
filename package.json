@@ -1,0 +1,22 @@
+{
+  "name": "git_con",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnandSinha2209/Git_con.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnandSinha2209/Git_con/issues"
+  },
+  "homepage": "https://github.com/AnandSinha2209/Git_con#readme",
+  "dependencies": {
+    "jsonfile": "^6.0.1"
+  }
+}
